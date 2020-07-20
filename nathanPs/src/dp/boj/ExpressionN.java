@@ -1,4 +1,4 @@
-package programmers.dp;
+package dp.boj;
 
 import java.util.TreeSet;
 
