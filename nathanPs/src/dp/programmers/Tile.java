@@ -1,4 +1,4 @@
-package dp.boj;
+package dp.programmers;
 
 public class Tile {
 
