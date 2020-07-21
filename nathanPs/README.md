@@ -12,6 +12,8 @@
 - [가르침 (1062)](https://www.notion.so/nathanh/BOJ-1062-b6a59597a0a5436f9353c007bb08f030)
 - [치킨 배달(15686)](https://www.notion.so/nathanh/BOJ-15686-e74adba2855f45918eddc55722a5449c)
 - [사탕 게임(3085)](https://www.notion.so/nathanh/3085-b4d82cf236c34002a748f945a51733d7)
+- [프린터 큐 (1966)](https://www.notion.so/nathanh/BOJ-1966-73b1c44c0c0943dba42c840e83952304)
+- [문자열 (1120)](https://www.notion.so/nathanh/BOJ-1120-55f50f0be49b4ce498854bb8324de474)
 
 ##### Programmers
 
@@ -65,3 +67,4 @@
 - [타일 장식물](https://www.notion.so/nathanh/DP-bcde17b0312c4e90887b931449607f65)
 
 ##### Leetcode
+- [Shortest Path Visiting All Nodes (847)](https://www.notion.so/nathanh/DP-Shortest-Path-Visiting-All-Nodes-Leetcode-847-1179a6c3f5b74a0888b45033d186130a)
