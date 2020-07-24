@@ -36,6 +36,7 @@ public class CardGame {
 
             // 오른쪽 카드 버린 후 현재까지 최대 점수 저장.
             dp[leftLoc][rightLoc] = currentSum;
+            System.out.println(String.format("DP[%d][%d] = %d", leftLoc, rightLoc, currentSum));
             return currentSum;
         } else {
             // 왼쪽 혹은 양쪽 모두 버리는 경우를 고려해, 두 경우 중 최대 점수를 반환.
@@ -43,8 +44,16 @@ public class CardGame {
                     searchMaxSum(left, right, leftLoc+1, rightLoc));
             // 두 경우 중 최대 점수를 저장.
             dp[leftLoc][rightLoc] = currentSum;
+            System.out.println(String.format("DP[%d][%d] = %d", leftLoc, rightLoc, currentSum));
             return currentSum;
         }
+    }
+
+    public static void main(String[] args) {
+        CardGame cardGame = new CardGame();
+        int[] left = new int[]{3,2,5};
+        int[] right = new int[]{2,4,1};
+        CardGame.solution(left, right);
     }
 
 }
@@ -59,7 +68,7 @@ class SolutionBottomUp {
                 // 왼쪽이 오른쪽보다 큰 경우.
                 if(left[left.length - i] > right[right.length - j]) {
                     // 오른쪽을 버린 후 오른쪽 점수 획득.
-                    dp[i][j] = dp[i][right.length-j];
+                    dp[i][j] = dp[i][j-1] + right[right.length - j];
                 }else {
                     // 왼쪽만 버린 경우, 양쪽 모두 버린 경우 중 큰 점수를 저장.
                     dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - 1]);
