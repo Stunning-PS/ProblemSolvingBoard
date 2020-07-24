@@ -38,6 +38,7 @@
 
 ##### Leetcode
 
+- [1291. Sequential Digits](https://www.notion.so/nathanh/BackTracking-1291-Sequential-Digits-14be06ce57f444f0af3254a1240909ef)
 ### String
 
 ---
@@ -50,7 +51,7 @@
 ##### Programmers
 
 ##### Leetcode
-
+- [14. Longest Common Prefix](https://www.notion.so/nathanh/String-14-Longest-Common-Prefix-af630d14cc4c4becad300b11ceddbc83)
 
 ### Dynamic Programming
 
@@ -60,11 +61,14 @@
 
 ##### BOJ
 - [팰린드롬 만들기 (1254) 풀이](https://www.notion.so/nathanh/DP-BOJ-1254-811f0ecb643740708b6c3bf77df87861)
-
+- [기업투자 (2662)](https://www.notion.so/nathanh/DP-BOJ-2662-bc54245ad164489e8d718ad0a1e784f7)
 
 ##### Programmers
 - [N으로 표현하기 풀이](https://www.notion.so/nathanh/DP-N-5f08980871a44c9a9fb8e51b1e055fbd)
 - [타일 장식물](https://www.notion.so/nathanh/DP-bcde17b0312c4e90887b931449607f65)
+- [등굣길](https://www.notion.so/nathanh/DP-c89b2d0b92ea4821a3fb51dfd82f79f2)
+- [카드 게임](https://www.notion.so/nathanh/DP-9de0980d9df9489e8bd28b63a2a147e7)
 
 ##### Leetcode
-- [Shortest Path Visiting All Nodes (847)](https://www.notion.so/nathanh/DP-Shortest-Path-Visiting-All-Nodes-Leetcode-847-1179a6c3f5b74a0888b45033d186130a)
+- [847. Shortest Path Visiting All Nodes](https://www.notion.so/nathanh/DP-Shortest-Path-Visiting-All-Nodes-Leetcode-847-1179a6c3f5b74a0888b45033d186130a)
+- [1143. Longest Common Subsequence](https://www.notion.so/nathanh/DP-1143-Longest-Common-Subsequence-40f8bfd594094a91b7dcf4de298f16ed)
