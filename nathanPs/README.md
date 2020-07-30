@@ -84,10 +84,14 @@
 ##### BOJ
 - [토마토 (7576)](https://www.notion.so/nathanh/DFS-BFS-BOJ-7576-bfb4b88e94884eac8353a4e2606bd859)
 - [벽 부수고 이동하기 (2206)](https://www.notion.so/nathanh/DFS-BFS-7bd66421647f41d59e50be973aa94f43)
+- [Puyo Puyo (11559)](https://www.notion.so/nathanh/DFS-BFS-Puyo-Puyo-BOJ-11559-ca7d8ce376d44b6d99581a665810db47)
 
 ##### Programmers
 - [단어 변환](https://www.notion.so/nathanh/DFS-BFS-948b17022e084be28fc0b2fc9ee30a78)
+- [여행 경로](https://www.notion.so/nathanh/DFS-BFS-3fca998279e64f69968306ca81f1e8f6)
 
 
 ##### Leetcode
 - [773. Sliding Puzzle](https://www.notion.so/nathanh/DFS-BFS-773-Sliding-Puzzle-1dbd83da52b44411bacf61827adfd635)
+- [329. Longest Increasing Path in a Matrix](https://www.notion.so/nathanh/DFS-BFS-329-Longest-Increasing-Path-in-a-Matrix-3cebbb76ae444e6186efb569ff8a4aea)
+- [993. Cousins in Binary Tree](https://www.notion.so/nathanh/DFS-BFS-993-Cousins-in-Binary-Tree-e3e32328c77b4534bc197e5c2a035cf8)
