@@ -95,3 +95,22 @@
 - [773. Sliding Puzzle](https://www.notion.so/nathanh/DFS-BFS-773-Sliding-Puzzle-1dbd83da52b44411bacf61827adfd635)
 - [329. Longest Increasing Path in a Matrix](https://www.notion.so/nathanh/DFS-BFS-329-Longest-Increasing-Path-in-a-Matrix-3cebbb76ae444e6186efb569ff8a4aea)
 - [993. Cousins in Binary Tree](https://www.notion.so/nathanh/DFS-BFS-993-Cousins-in-Binary-Tree-e3e32328c77b4534bc197e5c2a035cf8)
+
+
+### Greedy
+
+---
+- [풀이 코드]()
+
+
+##### BOJ
+- [보석 도덕 (1202)](https://www.notion.so/nathanh/Greedy-BOJ-1202-f0ff9afcddf9432f8a64add59b36a648)
+- [행렬 (1080)](https://www.notion.so/nathanh/Greedy-BOJ-1080-b55120d9078248ecb1a6328e2d45cf68)
+
+
+##### Programmers
+- [섬 연결하기](https://www.notion.so/nathanh/Greedy-5ec68461a81a401296207fea882ceec7)
+
+
+##### Leetcode
+- [330. Patching Array](https://www.notion.so/nathanh/Greedy-330-Patching-Array-ef46b81ec06d4fa3a4cbaf2ebf471efe)
