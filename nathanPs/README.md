@@ -106,11 +106,14 @@
 ##### BOJ
 - [보석 도덕 (1202)](https://www.notion.so/nathanh/Greedy-BOJ-1202-f0ff9afcddf9432f8a64add59b36a648)
 - [행렬 (1080)](https://www.notion.so/nathanh/Greedy-BOJ-1080-b55120d9078248ecb1a6328e2d45cf68)
+- [반도체 설계 (2352)](https://www.notion.so/nathanh/Greedy-21af2721c4ba4d0ab5f19977fa372655)
 
 
 ##### Programmers
 - [섬 연결하기](https://www.notion.so/nathanh/Greedy-5ec68461a81a401296207fea882ceec7)
-
+- [단속 카메라](https://www.notion.so/nathanh/Greedy-62d1d30c34494958a6a6a7f1c429d9c5)
 
 ##### Leetcode
 - [330. Patching Array](https://www.notion.so/nathanh/Greedy-330-Patching-Array-ef46b81ec06d4fa3a4cbaf2ebf471efe)
+- [55. Jump Game](https://www.notion.so/nathanh/Greedy-55-Jump-Game-8c6d6bf931484842903658a6718c5212)
+- [765. Couples Holding Hands](https://www.notion.so/nathanh/Greedy-756-Couples-Holding-Hands-8076eba8f0d449438fc240e02977bec4)
